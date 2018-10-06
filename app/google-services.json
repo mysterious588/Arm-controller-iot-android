@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "191029050735",
+    "firebase_url": "https://arm-controller-11c79.firebaseio.com",
+    "project_id": "arm-controller-11c79",
+    "storage_bucket": "arm-controller-11c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191029050735:android:6e91cdb615a15bc5",
+        "android_client_info": {
+          "package_name": "com.example.ahmad.armcontroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191029050735-kq4bcd1l8jq9t7vidnrue14uflg3re4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjeLgN7lxSH85JWVcwHXaYzdz94ASaE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
